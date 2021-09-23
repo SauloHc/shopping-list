@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Shopping Item List Screen View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-23 05:11:41</sys_created_on>
+        <sys_id>8a5c428d1b7a301017ca85d5624bcb30</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Shopping Item List Screen View Config</sys_name>
+        <sys_package display_value="Shopping List" source="x_699289_shopping">0479ce091b7a301017ca85d5624bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">0479ce091b7a301017ca85d5624bcbde</sys_scope>
+        <sys_update_name>sys_sg_view_config_8a5c428d1b7a301017ca85d5624bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-23 05:49:59</sys_updated_on>
+        <table>x_699289_shopping_shopping_item</table>
+        <template display_value="Universal Linking Default View Template">b3dacf23b7312010a17565efce11a920</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a5c428d1b7a301017ca85d5624bcb30"/>
+</record_update>
